@@ -1,0 +1,10 @@
+{
+  "name": "lk-ethdeploy-solc-loader",
+  "version": "0.0.1",
+  "description": "don't use this",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "solc": "*"
+  }
+}
